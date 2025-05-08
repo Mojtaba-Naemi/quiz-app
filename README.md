@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # quiz-app
 =======
 # React + Vite
